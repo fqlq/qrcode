@@ -12,13 +12,13 @@ Forked from [sylnsfar/qrcode](https://github.com/sylnsfar/qrcode)
 
 ```
 {
-  text: 'Hello, world',
+  text: "Hello, world",
   scale: 10,
   version: 6.
-  type: 'covered',
-	version: 6,
-	image: <IMAGE-URL>,
-	color: #ff0000
+  type: "covered",
+  version: 6,
+  image: <IMAGE-URL>,
+  color: "#ff0000"
 }
 ```
 
