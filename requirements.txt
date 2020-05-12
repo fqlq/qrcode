@@ -1,3 +1,6 @@
+requests
+flask
 imageio==1.5
-numpy==1.11.1
+numpy
 Pillow==3.3.1
+gunicorn==19.8.1
